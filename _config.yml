@@ -1,0 +1,28 @@
+name: BRIGHTON BALLET
+favicon: null
+layout_spectrum: 0.5434357021003962
+typography_spectrum: 0.1255805012769997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3539132159203291
+  lightness: 0.0742867907974869
+  saturation: 0.36189731070771813
+  rhythmicContrast: 0.9458253511693329
+purpose: []
