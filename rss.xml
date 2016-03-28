@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BRIGHTON BALLET]]></title>
         <description><![CDATA[BRIGHTON BALLET]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brighton-ballet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:53:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 18:55:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brighton-ballet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0deb3b49-5944-43cc-b5e6-32e13143dc1f.jpg">]]></description>
+            <link>https://thegrid.ai/brighton-ballet/bbt-draws-on-the-rich-traditions-of-russian-ballet-in-addit/index.html</link>
+            <guid isPermaLink="false">6617e45d-516f-403a-8a1c-f60fe3b34bcb</guid>
+            <pubDate>Mon, 28 Mar 2016 18:55:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55167745-f4ae-4e3d-b6da-3556c6c96067.jpg">]]></description>
-            <link>undefinedbbt-is-a-dance-school-dedicated-to-providing-the-highest-qua/index.html</link>
+            <link>https://thegrid.ai/brighton-ballet/bbt-is-a-dance-school-dedicated-to-providing-the-highest-qua/index.html</link>
             <guid isPermaLink="false">1a8fc642-fef4-40aa-93cd-b309d2533564</guid>
             <pubDate>Mon, 28 Mar 2016 18:52:47 GMT</pubDate>
         </item>
